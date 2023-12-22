@@ -150,9 +150,9 @@ namespace CppCLRWinFormsProject {
 			// 
 			this->butt9->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 48, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->butt9->Location = System::Drawing::Point(309, 354);
+			this->butt9->Location = System::Drawing::Point(365, 395);
 			this->butt9->Name = L"butt9";
-			this->butt9->Size = System::Drawing::Size(126, 155);
+			this->butt9->Size = System::Drawing::Size(147, 155);
 			this->butt9->TabIndex = 8;
 			this->butt9->UseVisualStyleBackColor = true;
 			this->butt9->Click += gcnew System::EventHandler(this, &Form1::butt9_Click);
@@ -161,9 +161,9 @@ namespace CppCLRWinFormsProject {
 			// 
 			this->butt8->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 48, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->butt8->Location = System::Drawing::Point(177, 354);
+			this->butt8->Location = System::Drawing::Point(212, 395);
 			this->butt8->Name = L"butt8";
-			this->butt8->Size = System::Drawing::Size(126, 155);
+			this->butt8->Size = System::Drawing::Size(147, 155);
 			this->butt8->TabIndex = 7;
 			this->butt8->Text = L"8";
 			this->butt8->UseVisualStyleBackColor = true;
@@ -173,9 +173,9 @@ namespace CppCLRWinFormsProject {
 			// 
 			this->butt7->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 48, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->butt7->Location = System::Drawing::Point(45, 354);
+			this->butt7->Location = System::Drawing::Point(59, 395);
 			this->butt7->Name = L"butt7";
-			this->butt7->Size = System::Drawing::Size(126, 155);
+			this->butt7->Size = System::Drawing::Size(147, 155);
 			this->butt7->TabIndex = 6;
 			this->butt7->Text = L"7";
 			this->butt7->UseVisualStyleBackColor = true;
@@ -185,9 +185,9 @@ namespace CppCLRWinFormsProject {
 			// 
 			this->butt6->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 48, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->butt6->Location = System::Drawing::Point(309, 193);
+			this->butt6->Location = System::Drawing::Point(365, 234);
 			this->butt6->Name = L"butt6";
-			this->butt6->Size = System::Drawing::Size(126, 155);
+			this->butt6->Size = System::Drawing::Size(147, 155);
 			this->butt6->TabIndex = 5;
 			this->butt6->Text = L"6";
 			this->butt6->UseVisualStyleBackColor = true;
@@ -197,9 +197,9 @@ namespace CppCLRWinFormsProject {
 			// 
 			this->butt5->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 48, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->butt5->Location = System::Drawing::Point(177, 193);
+			this->butt5->Location = System::Drawing::Point(212, 234);
 			this->butt5->Name = L"butt5";
-			this->butt5->Size = System::Drawing::Size(126, 155);
+			this->butt5->Size = System::Drawing::Size(147, 155);
 			this->butt5->TabIndex = 4;
 			this->butt5->Text = L"5";
 			this->butt5->UseVisualStyleBackColor = true;
@@ -209,9 +209,9 @@ namespace CppCLRWinFormsProject {
 			// 
 			this->butt4->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 48, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->butt4->Location = System::Drawing::Point(45, 193);
+			this->butt4->Location = System::Drawing::Point(59, 234);
 			this->butt4->Name = L"butt4";
-			this->butt4->Size = System::Drawing::Size(126, 155);
+			this->butt4->Size = System::Drawing::Size(147, 155);
 			this->butt4->TabIndex = 3;
 			this->butt4->Text = L"4";
 			this->butt4->UseVisualStyleBackColor = true;
@@ -221,9 +221,9 @@ namespace CppCLRWinFormsProject {
 			// 
 			this->butt3->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 48, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->butt3->Location = System::Drawing::Point(309, 32);
+			this->butt3->Location = System::Drawing::Point(365, 73);
 			this->butt3->Name = L"butt3";
-			this->butt3->Size = System::Drawing::Size(126, 155);
+			this->butt3->Size = System::Drawing::Size(147, 155);
 			this->butt3->TabIndex = 2;
 			this->butt3->Text = L"3";
 			this->butt3->UseVisualStyleBackColor = true;
@@ -233,9 +233,9 @@ namespace CppCLRWinFormsProject {
 			// 
 			this->butt2->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 48, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->butt2->Location = System::Drawing::Point(177, 32);
+			this->butt2->Location = System::Drawing::Point(212, 73);
 			this->butt2->Name = L"butt2";
-			this->butt2->Size = System::Drawing::Size(126, 155);
+			this->butt2->Size = System::Drawing::Size(147, 155);
 			this->butt2->TabIndex = 1;
 			this->butt2->Text = L"2";
 			this->butt2->UseVisualStyleBackColor = true;
@@ -245,9 +245,9 @@ namespace CppCLRWinFormsProject {
 			// 
 			this->butt1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 48, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->butt1->Location = System::Drawing::Point(45, 32);
+			this->butt1->Location = System::Drawing::Point(59, 73);
 			this->butt1->Name = L"butt1";
-			this->butt1->Size = System::Drawing::Size(126, 155);
+			this->butt1->Size = System::Drawing::Size(147, 155);
 			this->butt1->TabIndex = 0;
 			this->butt1->Text = L"1";
 			this->butt1->UseVisualStyleBackColor = true;
